@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Aman Pandey
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Aman Pandey-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aman-pandey-310340251/)  
-[![GitHub followers](https://img.shields.io/github/followers/Aman051103?label=Follow&style=social)](https://github.com/Aman051103)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Aman%20Pandey-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aman-pandey-310340251/)
+[![GitHub followers](https://img.shields.io/github/followers/Aman051103?label=Follow&style=social)](https://github.com/Aman051103)
 [![GitHub stars](https://img.shields.io/github/stars/Aman051103?style=social)](https://github.com/Aman051103?tab=stars)
 
 ## 🚀 About Me  
@@ -11,6 +11,8 @@ I’m a passionate Full-Stack & AI/ML Engineer who loves building scalable apps,
 **Languages:** Python · Java · Kotlin · JavaScript · SQL  
 **Frameworks & Tools:** Django · Flask · Spring Boot · React · Android (XML + Java) · TensorFlow/Keras · OpenCV · AWS · Docker · Git  
 **Databases & Others:** PostgreSQL · SQLite · Firebase · AWS S3 · REST APIs · Microservices
+
+---
 
 ### 💡 Projects I'm Proud Of  
 
@@ -24,8 +26,10 @@ I’m a passionate Full-Stack & AI/ML Engineer who loves building scalable apps,
 | **[smart-Keyboard-PlugIn](https://github.com/Aman051103/smart-Keyboard-PlugIn)** | Smart keyboard with AI-powered next-word prediction using TensorFlow/Keras and a Tkinter-based GUI that recommends words as you type. | Python · TensorFlow/Keras · Tkinter |
 | **[ECG-Anomaly-Detector](https://github.com/Aman051103/ECG-Anomaly-Detector)** | ECG anomaly detection using a Deep Learning Autoencoder trained on normal signals; identifies anomalies based on reconstruction error. | Python · TensorFlow/Keras · Autoencoders |
 
+---
+
 ### 📫 Get in Touch  
-- Email: your.email@example.com  
+- Email: aman.professiona01@gmail.com  
 - LinkedIn: [linkedin.com/in/aman-pandey-310340251](https://www.linkedin.com/in/aman-pandey-310340251/)  
 - Portfolio: your-portfolio.com
 
@@ -39,8 +43,10 @@ I’m a passionate Full-Stack & AI/ML Engineer who loves building scalable apps,
 ---
 
 ### 📊 GitHub Stats  
-[![Aman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman051103&show_icons=true&theme=tokyonight)](https://github.com/Aman051103)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman051103&layout=compact&theme=tokyonight)](https://github.com/Aman051103)
+
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=Aman051103&show_icons=true&theme=tokyonight" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman051103&layout=compact&theme=tokyonight" height="200"/> |
 
 ---
 
