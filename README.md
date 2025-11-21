@@ -14,7 +14,7 @@ I’m a passionate Full-Stack & AI/ML Engineer who loves building scalable apps,
 
 ---
 
-### 💡 Projects I'm Proud Of  
+### 💡 Projects  
 
 | 🚩 Project | Description | Tech Stack |
 |-----------|-------------|-----------|
