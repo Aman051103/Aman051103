@@ -22,9 +22,9 @@ I’m a passionate Full-Stack & AI/ML Engineer who loves building scalable apps,
 | **[deepFake-image-detector](https://github.com/Aman051103/deepFake-image-detector)** | An ML model to detect deep-fake images with ≈88% accuracy. | Keras · Python · CNN |
 | **[booksAlive](https://github.com/Aman051103/booksAlive)** | Interactive audiobook platform with emotional narration & personalised learning. | FastAPI · PostgreSQL · React |
 | **[acciGram](https://github.com/Aman051103/acciGram)** | AI-powered social platform detecting user distress and triggering help. | Python · ML · Web |
-| **[celena](https://github.com/Aman051103/celena)** | EmotionX <celena> — A Vite/React mental health platform integrating Ollama-powered chatbots, mood detection, CBT assessments, neurobic games, appointment scheduling, and Firebase-backed authentication, with optional Python tooling and a production-ready Docker build. | Vite · React · Firebase · Ollama · Python · Docker |
-| **[smart-Keyboard-PlugIn](https://github.com/Aman051103/smart-Keyboard-PlugIn)** | Smart keyboard with AI-powered next-word prediction using TensorFlow/Keras and a Tkinter-based GUI that recommends words as you type. | Python · TensorFlow/Keras · Tkinter |
-| **[ECG-Anomaly-Detector](https://github.com/Aman051103/ECG-Anomaly-Detector)** | ECG anomaly detection using a Deep Learning Autoencoder trained on normal signals; identifies anomalies based on reconstruction error. | Python · TensorFlow/Keras · Autoencoders |
+| **[celena](https://github.com/Aman051103/celena)** | EmotionX <celena> — Mental health platform integrating Ollama-powered chatbots, mood detection, CBT assessments, neurobic games and appointment scheduling. | Vite · React · Firebase · Ollama · Python · Docker |
+| **[smart-Keyboard-PlugIn](https://github.com/Aman051103/smart-Keyboard-PlugIn)** | Smart keyboard with AI-powered next-word prediction and a Tkinter-based GUI that recommends words as you type. | Python · TensorFlow/Keras · Tkinter |
+| **[ECG-Anomaly-Detector](https://github.com/Aman051103/ECG-Anomaly-Detector)** | ECG anomaly detection using an Autoencoder; identifies anomalies based on reconstruction error. | Python · TensorFlow/Keras · Autoencoders |
 
 ---
 
