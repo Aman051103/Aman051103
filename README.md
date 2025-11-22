@@ -1,13 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Aman%20Pandey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-
 # Hi there 👋, I'm Aman Pandey
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Aman%20Pandey-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aman-pandey-310340251/)
 [![GitHub followers](https://img.shields.io/github/followers/Aman051103?label=Follow&style=social)](https://github.com/Aman051103)
 [![GitHub stars](https://img.shields.io/github/stars/Aman051103?style=social)](https://github.com/Aman051103?tab=stars)
-</p>
+
 ## 🚀 About Me  
 I’m a passionate Full-Stack & AI/ML Engineer who loves building scalable apps, creating machine learning solutions, and solving real-world problems. I currently freelance on Upwork (Data Scientist | ML Engineer | Full Stack Developer) and have worked for startups like Outlier AI and Alignerr.
 
