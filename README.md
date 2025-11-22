@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Aman%20Pandey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 # Hi there 👋, I'm Aman Pandey
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Aman%20Pandey-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aman-pandey-310340251/)
