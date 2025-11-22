@@ -29,7 +29,7 @@ I’m a passionate Full-Stack & AI/ML Engineer who loves building scalable apps,
 ---
 
 ### 📫 Get in Touch  
-- Email: aman.professiona01@gmail.com  
+- Email: aman.professional01@gmail.com  
 - LinkedIn: [linkedin.com/in/aman-pandey-310340251](https://www.linkedin.com/in/aman-pandey-310340251/)  
 - Portfolio: your-portfolio.com
 
